@@ -1,6 +1,7 @@
 markdown: rdiscount
 pygments: true
 permalink: /posts/:title
+future: true
 auto: false
 rdiscount:
   extensions: [smart]
