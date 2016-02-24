@@ -1,10 +1,12 @@
-markdown: rdiscount
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  parse_block_html: true
 pygments: true
 permalink: /posts/:title
 future: true
 auto: false
-rdiscount:
-  extensions: [smart]
 url: http://thehackerwithin.github.com/wisconsin
 name: Hacker Within, Wisconsin
 description: An initial blog and site for THW at UW-Madison
