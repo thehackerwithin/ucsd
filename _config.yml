@@ -7,10 +7,10 @@ pygments: true
 permalink: /posts/:title
 future: true
 auto: false
-url: http://thehackerwithin.github.com/CHAPTER
-chapter: CHAPTER
+url: http://thehackerwithin.github.com/ucsd
+chapter: ucsd
 name: Hacker Within
-description: An initial blog and site for THW at CHAPTER
+description: An initial blog and site for THW at UCSD
 twitter: hackerwithin
 gravatar_url: http://www.gravatar.com/avatar/0203c034a145af6cc2576d56cdb4cf73
 disqus_username: hackerwithinadmin
