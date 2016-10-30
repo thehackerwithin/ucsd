@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Hacker Within</title>
+ <link href="http://thehackerwithin.github.com/ucsd/atom.xml" rel="self"/>
+ <link href="http://thehackerwithin.github.com/ucsd/"/>
+ <updated>2016-10-30T16:53:43-07:00</updated>
+ <id>http://thehackerwithin.github.com/ucsd</id>
+ <author>
+   <name>Hacker Within</name>
+ </author>
+ 
+ 
+ <entry>
+   <title>Kickoff Meeting</title>
+   <link href="http://thehackerwithin.github.com/ucsd/posts/kickoff-meeting"/>
+   <updated>2017-01-19T00:00:00-08:00</updated>
+   <id>http://thehackerwithin.github.com/ucsd/posts/kickoff-meeting</id>
+   <content type="html">&lt;p&gt;This was a planning meeting. We will get together to&lt;/p&gt;
+
+&lt;h2 id=&quot;attending&quot;&gt;Attending&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&amp;lt;++&amp;gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;winter-quarter-possible-topics&quot;&gt;Winter Quarter Possible Topics&lt;/h2&gt;
+
+&lt;p&gt;We can come up with these in meeting.&lt;/p&gt;
+
+&lt;h2 id=&quot;lightning-talks&quot;&gt;Lightning Talks&lt;/h2&gt;
+
+&lt;h2 id=&quot;person----topic-&quot;&gt;&amp;lt;+ person +&amp;gt; : &amp;lt;+ topic +&amp;gt;&lt;/h2&gt;
+
+&lt;h2 id=&quot;person----topic--1&quot;&gt;&amp;lt;+ person +&amp;gt; : &amp;lt;+ topic +&amp;gt;&lt;/h2&gt;
+
+&lt;h2 id=&quot;next-meeting&quot;&gt;Next Meeting&lt;/h2&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Classic Topic</title>
+   <link href="http://thehackerwithin.github.com/ucsd/posts/template-previous"/>
+   <updated>0001-01-01T00:00:00-08:00</updated>
+   <id>http://thehackerwithin.github.com/ucsd/posts/template-previous</id>
+   <content type="html">&lt;h2 id=&quot;attending&quot;&gt;Attending&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;bob&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;old-hat&quot;&gt;Old Hat&lt;/h2&gt;
+
+&lt;p&gt;Old Hat is a researcher&lt;/p&gt;
+
+&lt;h2 id=&quot;classic-topic&quot;&gt;Classic Topic&lt;/h2&gt;
+
+&lt;p&gt;Classic Topic is classic.&lt;/p&gt;
+
+&lt;p&gt;Code examples can be found &lt;a href=&quot;/tree/master/classic&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;lightning-talks&quot;&gt;Lightning Talks&lt;/h2&gt;
+
+&lt;h3 id=&quot;ted--old-stuff&quot;&gt;Ted : Old Stuff&lt;/h3&gt;
+
+</content>
+ </entry>
+ 
+ 
+</feed>
