@@ -1,6 +1,6 @@
 ---
 layout: layout
-title: "About"
+title: "About the UCSD Hacker Within Chapter"
 ---
 
 <!-- You can edit this whole page, remove it, or use it as basis for any non-post pages you have. -->
@@ -56,13 +56,13 @@ lightning talks and hacking session usually go on until 5:30pm. See the [upcomin
 ## How:
 
 ### Communications
-* [Mailing list](https://groups.google.com/a/lists.berkeley.edu/forum/#!forum/ucb-hacker-within)
+* [Mailing list](https://mailman.ucsd.edu/mailman/listinfo/thehackerwithin-l)
 
 ### Participating:
 
 Participating is easy.
 
-* At **4:00pm**, we gather and go through a round of introductions.
+* At __4:00pm__, we gather and go through a round of introductions.
 New faces are always appearing!
 * Next, a volunteer will give a **tutorial** or lead a
 **discussion** about a computational topic. This topic can be anything useful, new, or interesting to scientists who compute. It may be some new skill you have recently picked up in your research, a productivity tool you have recently learned to love, an overview of a useful library, or anything you feel we would enjoy learning.
