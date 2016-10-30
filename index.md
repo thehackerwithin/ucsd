@@ -48,7 +48,7 @@ TBD
 
 ## When:
 
-* TBD - Mid-Jan. - Most likely 2017-01-19 
+* 2017-01-19 
 
 * While the main talk should occupy less than an hour, the
 lightning talks and hacking session usually go on until 5:30pm. See the [upcoming topics list]({{ site.url }}/upcoming.html). 
