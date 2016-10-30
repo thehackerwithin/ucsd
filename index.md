@@ -27,7 +27,7 @@ title: "About the UCSD Hacker Within Chapter"
 
 ## What:
 
-This is a weekly meeting for sharing skills and best practices for
+This is a weekly or monthly meeting for sharing skills and best practices for
 scientific computation. In these friendly sessions, peers at all levels
 of experience share topics useful in our scientific software development
 workflows.
@@ -48,15 +48,15 @@ TBD
 
 ## When:
 
-* 2017-01-19 
-
-* While the main talk should occupy less than an hour, the
+* Thursdays at 4pm - Kickoff meeting on 2017-01-19 
+* First meeting of the quarter is used to generate topics and schedule talks.  
+* For the main meetings,the main talk should occupy less than an hour, the
 lightning talks and hacking session usually go on until 5:30pm. See the [upcoming topics list]({{ site.url }}/upcoming.html). 
 
 ## How:
 
 ### Communications
-* [Mailing list](https://mailman.ucsd.edu/mailman/listinfo/thehackerwithin-l)
+* Get on the [mailing list](https://mailman.ucsd.edu/mailman/listinfo/thehackerwithin-l)
 
 ### Participating:
 
