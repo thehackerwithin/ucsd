@@ -1,26 +1,22 @@
 ---
 layout: post
-title: Bleeding Edge Stuff
-author: New Hat
+title: Kickoff Meeting
+author: Tim Dennis
 category: upcoming
 tags: meeting 
 ---
 
+This was a planning meeting. We will get together to 
 
 ## Attending
 
 - <++>
 
 
-## New Hat
+## Winter Quarter Possible Topics 
 
-New Hat is a cool young cat. 
+We can come up with these in meeting. 
 
-## Bleeding Edge Stuff
-
-Brand spanking new library is brand spanking new
-
-Code examples can be found [here][code].
 
 ## Lightning Talks 
 
@@ -28,5 +24,6 @@ Code examples can be found [here][code].
 
 ## <+ person +> : <+ topic +>
 
+## Next Meeting 
 
 [code]: {{ site.github.repository_url }}/tree/master/bleeding-edge-stuff
