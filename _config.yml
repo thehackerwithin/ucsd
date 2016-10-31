@@ -3,6 +3,7 @@ kramdown:
   input: GFM
   hard_wrap: false
   parse_block_html: true
+github: thehackerwithin
 highlighter: rouge
 permalink: /posts/:title
 future: true
