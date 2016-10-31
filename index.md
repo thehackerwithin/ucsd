@@ -62,11 +62,10 @@ lightning talks and hacking session usually go on until 5:30pm. See the [upcomin
 
 Participating is easy.
 
-* At __4:00pm__, we gather and go through a round of introductions.
-New faces are always appearing!
-* Next, a volunteer will give a **tutorial** or lead a
+1. At __4:00pm__, we gather and go through a round of introductions.
+2. Next, a volunteer will give a **tutorial** or lead a
 **discussion** about a computational topic. This topic can be anything useful, new, or interesting to scientists who compute. It may be some new skill you have recently picked up in your research, a productivity tool you have recently learned to love, an overview of a useful library, or anything you feel we would enjoy learning.
-* Finally, there will be a time for a couple of **Lightning Talks**, which
+3. Finally, there will be a time for a couple of **[Lightning Talks](https://en.wikipedia.org/wiki/Lightning_talk)**, which
 are 5-10 minute blasts of information about a particular topic or
 question of interest to the group.
 **Note** that the lightning talk time is a good way to bring a
