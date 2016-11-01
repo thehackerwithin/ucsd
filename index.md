@@ -25,11 +25,11 @@ title: "About the UCSD Hacker Within Chapter"
 </li>-->
 </ul>
 
+###Slides from the Roadshow: <https://goo.gl/qSO57D>
+
 ## What:
 
-This is a weekly or monthly meeting for sharing skills and best practices for
-scientific computation. In these friendly sessions, peers at all levels
-of experience share topics useful in our scientific software development
+This is a weekly/bi-weekly/monthly meeting (depending on topics) for sharing skills and best practices for scientific computation. In these friendly sessions, peers at all levels of experience share topics useful in our scientific software development
 workflows.
 
 This meeting would be a great venue for introducing new libraries,
