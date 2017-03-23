@@ -12,14 +12,14 @@ title: "About the UCSD Hacker Within Chapter"
 <li>
 <span>Winter 2017</span><a href="{{ site.url }}/upcoming.html">Upcoming Topics</a>
 </li>
-  {% assign upcoming = (site.posts | where: "category" , "upcoming") %}
+ <!-- {% assign upcoming = (site.posts | where: "category" , "upcoming") %}
   {% for post in upcoming reversed %}
     {% if forloop.first %}
 	<li style="text-indent: 2em;">
 		<span>{{ post.date | date: "%B %e, %Y" }}</span> Next topic: <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
 	</li>
     {% endif %}
-  {% endfor %}
+  {% endfor %} -->
 <!--<li>
 <span>2014-2016</span><a href="{{ site.url }}/previous.html">Previous Topics</a>
 </li>-->
