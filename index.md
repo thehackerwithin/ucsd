@@ -10,7 +10,7 @@ title: "About the UCSD Hacker Within Chapter"
 
 <ul class="listing">
 <li>
-<span>Winter 2017</span><a href="{{ site.url }}/upcoming.html">Upcoming Topics</a>
+<span>TBD 2017</span><a href="{{ site.url }}/upcoming.html">Upcoming Topics</a>
 </li>
  <!-- {% assign upcoming = (site.posts | where: "category" , "upcoming") %}
   {% for post in upcoming reversed %}
